@@ -15,19 +15,16 @@
 
 ## 👨‍💻 About me
 
-<!-- EDIT: change the values inside the quotes to update this. Keep the quotes and commas as they are. -->
-```python
-class Rishi:
-    role       = "Backend & ML developer"
-    studying   = "2nd-year CSE @ Ramdeobaba University (RBU), Nagpur"
-    startup    = "Co-founder @ Awaitex, incubated at RCOEM TBI"
-    e_cell     = "Events team @ E-Cell RBU, and I build websites for the cell's events"
-    interests  = ["machine learning", "geospatial data", "APIs that don't break"]
-    hackathons = ["Smart India Hackathon 2026", "Multimodal AI Hackathon (IIT Mandi)",
-                  "Hacktoberfest Hack Day × Elevate IIITN", "NASA Space Apps"]
-```
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=rishi-3009&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 
-> 🔨 **Currently building:** the backend for Awaitex with [@harshavi3009](https://github.com/harshavi3009)
+<!-- EDIT: rewrite these in your own words -->
+- 🧠 **Backend & ML developer**, 2nd-year CSE at **RBU Nagpur**
+- 🚀 **Co-founder of Awaitex**, building the backend with [@harshavi3009](https://github.com/harshavi3009)
+- 🎪 **Events team at E-Cell RBU**, and I build the cell's event websites
+- 🗺️ Into **machine learning**, **geospatial data** and APIs that don't break
+- ⚡ **Hackathons:** SIH 2026, Multimodal AI (IIT Mandi), Hack Day × Elevate IIITN, NASA Space Apps
+
+<br clear="right" />
 
 ## 🏆 Achievements
 
@@ -35,25 +32,6 @@ class Rishi:
 - 🥈 **2nd place**, Geektoberfest open-source contribution hackathon by GeeksforGeeks, with 44 merged pull requests in 7 days
 - 🇮🇳 **Shortlisted**, Smart India Hackathon 2026 internal hackathon
 - 🇮🇳 **Shortlisted**, Smart India Hackathon 2025 internal hackathon
-
-## 🌍 Open source
-
-**44 merged pull requests in 7 days** during Geektoberfest by GeeksforGeeks.
-
-<p>
-  <a href="https://github.com/search?q=org%3AGeektoberfest+author%3Arishi-3009+is%3Apr+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/Geektoberfest-44_merged_PRs-70a5fd?style=for-the-badge&logo=github&logoColor=white" alt="44 merged PRs in Geektoberfest" /></a>
-</p>
-
-| Repo | Merged PRs | Highlights |
-|---|---|---|
-| [TrackHack](https://github.com/Geektoberfest/GEEKTOBERFEST-TrackHack) | 9 | [GitHub activity dashboard](https://github.com/Geektoberfest/GEEKTOBERFEST-TrackHack/pull/35) · [Bookmarks](https://github.com/Geektoberfest/GEEKTOBERFEST-TrackHack/pull/45) · [Search & filters in the URL](https://github.com/Geektoberfest/GEEKTOBERFEST-TrackHack/pull/36) |
-| [Aster-Workspace](https://github.com/Geektoberfest/Geektoberfest-Aster-Workspace) | 6 | [Page version history](https://github.com/Geektoberfest/Geektoberfest-Aster-Workspace/pull/13) · [Drag-and-drop reordering](https://github.com/Geektoberfest/Geektoberfest-Aster-Workspace/pull/12) · [API integration tests](https://github.com/Geektoberfest/Geektoberfest-Aster-Workspace/pull/14) |
-| [Club Task & Attendance](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system) | 4 | [Task search & filters](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/12) · [Overdue indicators](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/10) · [Readable errors & retry](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/15) |
-| [YANP](https://github.com/Geektoberfest/Geetober-YANP) | 4 | [Recent files](https://github.com/Geektoberfest/Geetober-YANP/pull/9) · [Read-only mode](https://github.com/Geektoberfest/Geetober-YANP/pull/17) · [New themes](https://github.com/Geektoberfest/Geetober-YANP/pull/21) |
-| [CampusCare](https://github.com/Geektoberfest/Geektoberfest-CAMPUSCARE) | 3 | [Hindi, Hinglish & Marathi support](https://github.com/Geektoberfest/Geektoberfest-CAMPUSCARE/pull/7) · [Complaint triage](https://github.com/Geektoberfest/Geektoberfest-CAMPUSCARE/pull/8) · [Staff dashboard](https://github.com/Geektoberfest/Geektoberfest-CAMPUSCARE/pull/10) |
-| [EventManager](https://github.com/Geektoberfest/Geektoberfest-EventManager) | 3 | [Event waitlist](https://github.com/Geektoberfest/Geektoberfest-EventManager/pull/17) · [Capacity limits](https://github.com/Geektoberfest/Geektoberfest-EventManager/pull/22) |
-| [LedgerLens](https://github.com/Geektoberfest/Geektoberfest-LEDGERLENS) | 3 | [Anomaly detection comparison](https://github.com/Geektoberfest/Geektoberfest-LEDGERLENS/pull/6) · [Anomaly explanations](https://github.com/Geektoberfest/Geektoberfest-LEDGERLENS/pull/7) |
-| More | 7 | [No double booking](https://github.com/Geektoberfest/Geektoberfest-ParkingManagementSystem/pull/15) · [Folder permissions](https://github.com/Geektoberfest/Geektoberfest-docvault/pull/27) · [Faster dashboard](https://github.com/Geektoberfest/Geektoberfest-Spotify-Integilligence/pull/16) · [Forecast confidence](https://github.com/Geektoberfest/Geektoberfest-decentralized-budget-tracker/pull/13) · [User auth](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/32) |
 
 ## 🛠️ Tech I work with
 
@@ -93,11 +71,29 @@ Photograph a packaged product and the phone reads the label, measures the print 
 | **[CardioLens](https://github.com/rishi-3009/cardiolens)** | Predicts coronary artery disease risk for each major artery and explains every prediction, powering a 3D heart dashboard. Built for the IIT Mandi Multimodal AI Hackathon | Python, scikit-learn, SHAP, FastAPI |
 | **[SecondLook](https://github.com/rishi-3009/SecondLook)** | GST invoice reader that fixes misread handwriting using the invoice's own maths. Our qualifier for Hacktoberfest Hack Day × Elevate IIITN | Qwen3.5, PP-OCRv5, Docling, FastAPI |
 
+## 🌍 Open source
+
+**44 merged pull requests in 7 days** during Geektoberfest by GeeksforGeeks.
+
+<p>
+  <a href="https://github.com/search?q=org%3AGeektoberfest+author%3Arishi-3009+is%3Apr+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/Geektoberfest-44_merged_PRs-70a5fd?style=for-the-badge&logo=github&logoColor=white" alt="44 merged PRs in Geektoberfest" /></a>
+</p>
+
+| Repo | Merged PRs | Highlights |
+|---|---|---|
+| [TrackHack](https://github.com/Geektoberfest/GEEKTOBERFEST-TrackHack) | 9 | [GitHub activity dashboard](https://github.com/Geektoberfest/GEEKTOBERFEST-TrackHack/pull/35) · [Bookmarks](https://github.com/Geektoberfest/GEEKTOBERFEST-TrackHack/pull/45) · [Search & filters in the URL](https://github.com/Geektoberfest/GEEKTOBERFEST-TrackHack/pull/36) |
+| [Aster-Workspace](https://github.com/Geektoberfest/Geektoberfest-Aster-Workspace) | 6 | [Page version history](https://github.com/Geektoberfest/Geektoberfest-Aster-Workspace/pull/13) · [Drag-and-drop reordering](https://github.com/Geektoberfest/Geektoberfest-Aster-Workspace/pull/12) · [API integration tests](https://github.com/Geektoberfest/Geektoberfest-Aster-Workspace/pull/14) |
+| [Club Task & Attendance](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system) | 4 | [Task search & filters](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/12) · [Overdue indicators](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/10) · [Readable errors & retry](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/15) |
+| [YANP](https://github.com/Geektoberfest/Geetober-YANP) | 4 | [Recent files](https://github.com/Geektoberfest/Geetober-YANP/pull/9) · [Read-only mode](https://github.com/Geektoberfest/Geetober-YANP/pull/17) · [New themes](https://github.com/Geektoberfest/Geetober-YANP/pull/21) |
+| [CampusCare](https://github.com/Geektoberfest/Geektoberfest-CAMPUSCARE) | 3 | [Hindi, Hinglish & Marathi support](https://github.com/Geektoberfest/Geektoberfest-CAMPUSCARE/pull/7) · [Complaint triage](https://github.com/Geektoberfest/Geektoberfest-CAMPUSCARE/pull/8) · [Staff dashboard](https://github.com/Geektoberfest/Geektoberfest-CAMPUSCARE/pull/10) |
+| [EventManager](https://github.com/Geektoberfest/Geektoberfest-EventManager) | 3 | [Event waitlist](https://github.com/Geektoberfest/Geektoberfest-EventManager/pull/17) · [Capacity limits](https://github.com/Geektoberfest/Geektoberfest-EventManager/pull/22) |
+| [LedgerLens](https://github.com/Geektoberfest/Geektoberfest-LEDGERLENS) | 3 | [Anomaly detection comparison](https://github.com/Geektoberfest/Geektoberfest-LEDGERLENS/pull/6) · [Anomaly explanations](https://github.com/Geektoberfest/Geektoberfest-LEDGERLENS/pull/7) |
+| More | 7 | [No double booking](https://github.com/Geektoberfest/Geektoberfest-ParkingManagementSystem/pull/15) · [Folder permissions](https://github.com/Geektoberfest/Geektoberfest-docvault/pull/27) · [Faster dashboard](https://github.com/Geektoberfest/Geektoberfest-Spotify-Integilligence/pull/16) · [Forecast confidence](https://github.com/Geektoberfest/Geektoberfest-decentralized-budget-tracker/pull/13) · [User auth](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/32) |
+
 ## 📊 GitHub stats
 
 <!-- These update automatically. If one ever shows as a broken image, just delete that line. -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rishi-3009&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-3009&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=rishi-3009&theme=tokyonight&hide_border=true" alt="GitHub streak" />
