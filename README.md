@@ -15,16 +15,12 @@
 
 ## 👨‍💻 About me
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=rishi-3009&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-
 <!-- EDIT: rewrite these in your own words -->
 - 🧠 **Backend & ML developer**, 2nd-year CSE at **RBU Nagpur**
 - 🚀 **Co-founder of Awaitex**, building the backend with [@harshavi3009](https://github.com/harshavi3009)
 - 🎪 **Events team at E-Cell RBU**, and I build the cell's event websites
 - 🗺️ Into **machine learning**, **geospatial data** and APIs that don't break
 - ⚡ **Hackathons:** SIH 2026, Multimodal AI (IIT Mandi), Hack Day × Elevate IIITN, NASA Space Apps
-
-<br clear="right" />
 
 ## 🏆 Achievements
 
@@ -94,6 +90,7 @@ Photograph a packaged product and the phone reads the label, measures the print 
 
 <!-- These update automatically. If one ever shows as a broken image, just delete that line. -->
 <div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rishi-3009&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-3009&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=rishi-3009&theme=tokyonight&hide_border=true" alt="GitHub streak" />
