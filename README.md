@@ -18,9 +18,13 @@
 <!-- EDIT: rewrite these in your own words -->
 - 🎓 2nd-year Computer Science Engineering student at **Ramdeobaba University (RBU), Nagpur**
 - 🚀 Co-founding **Awaitex** and building its backend and payments side
-- 🎪 Backend for **E-Cell RBU** event registration sites
+- 🎪 On the **Events team at E-Cell RBU**, and I build websites for the cell's events
 - 🗺️ Interested in machine learning and geospatial data
-- 🏆 Hackathons: Multimodal AI Hackathon (IIT Mandi), Hacktoberfest Hack Day × Elevate IIITN, NASA Space Apps
+- ⚡ Hackathons: Smart India Hackathon 2026, Multimodal AI Hackathon (IIT Mandi), Hacktoberfest Hack Day × Elevate IIITN, NASA Space Apps
+
+## 🏆 Achievements
+
+- 🥈 **2nd place**, Geektoberfest open-source contribution hackathon by GeeksforGeeks
 
 ## 🛠️ Tech I work with
 
@@ -33,18 +37,21 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ## 🚧 Projects
 
+<!-- EDIT: rows without a link need one. Replace the bold name with [Name](link-to-repo) -->
 | Project | What it is | Built with |
 |---|---|---|
-| **[StreetSafe-Nagpur](https://github.com/rishi-3009/StreetSafe-Nagpur)** | Crowdsourced safety map of Nagpur that clusters incident reports into "Red Zones" using DBSCAN | Python, FastAPI, SQLite, Leaflet.js |
-| **[SecondLook](https://github.com/rishi-3009/SecondLook)** | GST invoice intelligence proposal, qualifier for Hacktoberfest Hack Day × Elevate IIITN | <!-- EDIT: add the tech --> |
-| **Awaitex** <!-- EDIT: add the link once awaitex.in is live --> | Startup rewarding Indian developers for the idle time while AI coding agents think. I'm building the backend. | Supabase, Python |
-| **CardioLens** <!-- EDIT: add the repo or Devpost link --> | Cardiovascular risk prediction model behind a 3D heart dashboard, built for the IIT Mandi Multimodal AI Hackathon | Python, ML |
+| **NaadChitra** <!-- EDIT: add link --> | SIH 2026 prototype: photograph a museum painting or statue, identify the ancient musical instrument in it, read its history, hear it and play it | <!-- EDIT: add tech --> |
+| **MaapDrishti** <!-- EDIT: add link --> | SIH 2026 prototype: scans packaged products and labels to check compliance with India's Legal Metrology rules | <!-- EDIT: add tech --> |
+| **Venture Vault Website** <!-- EDIT: add link --> | Mobile-first website for Venture Vault, E-Cell RBU's flagship event, handling team sign-ups for hundreds of participants | <!-- EDIT: add tech -->Vercel |
+| **CardioLens** <!-- EDIT: add link --> | Cardiovascular risk prediction model powering a 3D heart dashboard, built for the IIT Mandi Multimodal AI Hackathon | Python, ML |
+| **[SecondLook](https://github.com/rishi-3009/SecondLook)** | GST invoice intelligence, our qualifier for Hacktoberfest Hack Day × Elevate IIITN | <!-- EDIT: add tech --> |
 
 ## 📊 GitHub stats
 
