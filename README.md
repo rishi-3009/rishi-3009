@@ -15,16 +15,45 @@
 
 ## 👨‍💻 About me
 
-<!-- EDIT: rewrite these in your own words -->
-- 🎓 2nd-year Computer Science Engineering student at **Ramdeobaba University (RBU), Nagpur**
-- 🚀 Co-founding **Awaitex** and building its backend and payments side
-- 🎪 On the **Events team at E-Cell RBU**, and I build websites for the cell's events
-- 🗺️ Interested in machine learning and geospatial data
-- ⚡ Hackathons: Smart India Hackathon 2026, Multimodal AI Hackathon (IIT Mandi), Hacktoberfest Hack Day × Elevate IIITN, NASA Space Apps
+<!-- EDIT: change the values inside the quotes to update this. Keep the quotes and commas as they are. -->
+```python
+class Rishi:
+    role       = "Backend & ML developer"
+    studying   = "2nd-year CSE @ Ramdeobaba University (RBU), Nagpur"
+    startup    = "Co-founder @ Awaitex, incubated at RCOEM TBI"
+    e_cell     = "Events team @ E-Cell RBU, and I build websites for the cell's events"
+    interests  = ["machine learning", "geospatial data", "APIs that don't break"]
+    hackathons = ["Smart India Hackathon 2026", "Multimodal AI Hackathon (IIT Mandi)",
+                  "Hacktoberfest Hack Day × Elevate IIITN", "NASA Space Apps"]
+```
+
+> 🔨 **Currently building:** the backend for Awaitex with [@harshavi3009](https://github.com/harshavi3009)
 
 ## 🏆 Achievements
 
-- 🥈 **2nd place**, Geektoberfest open-source contribution hackathon by GeeksforGeeks
+- 🚀 **Awaitex** (my startup) is incubated at **RCOEM TBI**
+- 🥈 **2nd place**, Geektoberfest open-source contribution hackathon by GeeksforGeeks, with 44 merged pull requests in 7 days
+- 🇮🇳 **Shortlisted**, Smart India Hackathon 2026 internal hackathon
+- 🇮🇳 **Shortlisted**, Smart India Hackathon 2025 internal hackathon
+
+## 🌍 Open source
+
+**44 merged pull requests in 7 days** during Geektoberfest by GeeksforGeeks.
+
+<p>
+  <a href="https://github.com/search?q=org%3AGeektoberfest+author%3Arishi-3009+is%3Apr+is%3Amerged&type=pullrequests"><img src="https://img.shields.io/badge/Geektoberfest-44_merged_PRs-70a5fd?style=for-the-badge&logo=github&logoColor=white" alt="44 merged PRs in Geektoberfest" /></a>
+</p>
+
+| Repo | Merged PRs | Highlights |
+|---|---|---|
+| [TrackHack](https://github.com/Geektoberfest/GEEKTOBERFEST-TrackHack) | 9 | [GitHub activity dashboard](https://github.com/Geektoberfest/GEEKTOBERFEST-TrackHack/pull/35) · [Bookmarks](https://github.com/Geektoberfest/GEEKTOBERFEST-TrackHack/pull/45) · [Search & filters in the URL](https://github.com/Geektoberfest/GEEKTOBERFEST-TrackHack/pull/36) |
+| [Aster-Workspace](https://github.com/Geektoberfest/Geektoberfest-Aster-Workspace) | 6 | [Page version history](https://github.com/Geektoberfest/Geektoberfest-Aster-Workspace/pull/13) · [Drag-and-drop reordering](https://github.com/Geektoberfest/Geektoberfest-Aster-Workspace/pull/12) · [API integration tests](https://github.com/Geektoberfest/Geektoberfest-Aster-Workspace/pull/14) |
+| [Club Task & Attendance](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system) | 4 | [Task search & filters](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/12) · [Overdue indicators](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/10) · [Readable errors & retry](https://github.com/Geektoberfest/Geektoberfes-club-task-and-attendance-management-system/pull/15) |
+| [YANP](https://github.com/Geektoberfest/Geetober-YANP) | 4 | [Recent files](https://github.com/Geektoberfest/Geetober-YANP/pull/9) · [Read-only mode](https://github.com/Geektoberfest/Geetober-YANP/pull/17) · [New themes](https://github.com/Geektoberfest/Geetober-YANP/pull/21) |
+| [CampusCare](https://github.com/Geektoberfest/Geektoberfest-CAMPUSCARE) | 3 | [Hindi, Hinglish & Marathi support](https://github.com/Geektoberfest/Geektoberfest-CAMPUSCARE/pull/7) · [Complaint triage](https://github.com/Geektoberfest/Geektoberfest-CAMPUSCARE/pull/8) · [Staff dashboard](https://github.com/Geektoberfest/Geektoberfest-CAMPUSCARE/pull/10) |
+| [EventManager](https://github.com/Geektoberfest/Geektoberfest-EventManager) | 3 | [Event waitlist](https://github.com/Geektoberfest/Geektoberfest-EventManager/pull/17) · [Capacity limits](https://github.com/Geektoberfest/Geektoberfest-EventManager/pull/22) |
+| [LedgerLens](https://github.com/Geektoberfest/Geektoberfest-LEDGERLENS) | 3 | [Anomaly detection comparison](https://github.com/Geektoberfest/Geektoberfest-LEDGERLENS/pull/6) · [Anomaly explanations](https://github.com/Geektoberfest/Geektoberfest-LEDGERLENS/pull/7) |
+| More | 7 | [No double booking](https://github.com/Geektoberfest/Geektoberfest-ParkingManagementSystem/pull/15) · [Folder permissions](https://github.com/Geektoberfest/Geektoberfest-docvault/pull/27) · [Faster dashboard](https://github.com/Geektoberfest/Geektoberfest-Spotify-Integilligence/pull/16) · [Forecast confidence](https://github.com/Geektoberfest/Geektoberfest-decentralized-budget-tracker/pull/13) · [User auth](https://github.com/Geektoberfest/Geektoberfest-Chat-Server/pull/32) |
 
 ## 🛠️ Tech I work with
 
@@ -44,6 +73,18 @@
 
 ## 🚧 Projects
 
+### ⭐ Featured: [MaapDrishti](https://github.com/ayyogz/maapdrishti)
+
+Photograph a packaged product and the phone reads the label, measures the print in millimetres and checks it against India's Legal Metrology rules. Built for Smart India Hackathon 2026.
+
+<p align="center">
+  <a href="https://github.com/ayyogz/maapdrishti"><img src="https://raw.githubusercontent.com/ayyogz/maapdrishti/main/docs/screenshots/01-home.png" width="200" alt="MaapDrishti home screen" /></a>
+  <a href="https://github.com/ayyogz/maapdrishti"><img src="https://raw.githubusercontent.com/ayyogz/maapdrishti/main/docs/screenshots/02-verdict.png" width="200" alt="MaapDrishti compliance verdict" /></a>
+  <a href="https://github.com/ayyogz/maapdrishti"><img src="https://raw.githubusercontent.com/ayyogz/maapdrishti/main/docs/screenshots/03-font-sizes.png" width="200" alt="MaapDrishti font size checks" /></a>
+</p>
+
+### All projects
+
 | Project | What it is | Built with |
 |---|---|---|
 | **[NaadChitra](https://github.com/ayyogz/naadchitra)** | SIH 2026 Android app: point your phone at Indian art, identify the classical instrument in it, hear its real sound and play it yourself. Runs fully offline | Flutter, Kotlin, ONNX Runtime |
@@ -60,6 +101,8 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-3009&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=rishi-3009&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishi-3009&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
 </div>
 
 <div align="center">
