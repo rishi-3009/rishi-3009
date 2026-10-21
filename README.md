@@ -26,8 +26,8 @@
 
 - 🚀 **Awaitex** (my startup) is incubated at **RCOEM TBI**
 - 🥈 **2nd place**, Geektoberfest open-source contribution hackathon by GeeksforGeeks, with 44 merged pull requests in 7 days
-- 🇮🇳 **Shortlisted**, Smart India Hackathon 2026 internal hackathon
-- 🇮🇳 **Shortlisted**, Smart India Hackathon 2025 internal hackathon
+- 🎖️ **Shortlisted**, Smart India Hackathon 2026 internal hackathon
+- 🎖️ **Shortlisted**, Smart India Hackathon 2025 internal hackathon
 
 ## 🛠️ Tech I work with
 
