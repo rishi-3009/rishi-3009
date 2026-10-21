@@ -44,14 +44,13 @@
 
 ## 🚧 Projects
 
-<!-- EDIT: rows without a link need one. Replace the bold name with [Name](link-to-repo) -->
 | Project | What it is | Built with |
 |---|---|---|
-| **NaadChitra** <!-- EDIT: add link --> | SIH 2026 prototype: photograph a museum painting or statue, identify the ancient musical instrument in it, read its history, hear it and play it | <!-- EDIT: add tech --> |
-| **MaapDrishti** <!-- EDIT: add link --> | SIH 2026 prototype: scans packaged products and labels to check compliance with India's Legal Metrology rules | <!-- EDIT: add tech --> |
-| **Venture Vault Website** <!-- EDIT: add link --> | Mobile-first website for Venture Vault, E-Cell RBU's flagship event, handling team sign-ups for hundreds of participants | <!-- EDIT: add tech -->Vercel |
-| **CardioLens** <!-- EDIT: add link --> | Cardiovascular risk prediction model powering a 3D heart dashboard, built for the IIT Mandi Multimodal AI Hackathon | Python, ML |
-| **[SecondLook](https://github.com/rishi-3009/SecondLook)** | GST invoice intelligence, our qualifier for Hacktoberfest Hack Day × Elevate IIITN | <!-- EDIT: add tech --> |
+| **[NaadChitra](https://github.com/ayyogz/naadchitra)** | SIH 2026 Android app: point your phone at Indian art, identify the classical instrument in it, hear its real sound and play it yourself. Runs fully offline | Flutter, Kotlin, ONNX Runtime |
+| **[MaapDrishti](https://github.com/ayyogz/maapdrishti)** | SIH 2026 Android app: photograph a packaged product and it reads the label, measures the print size and checks it against Legal Metrology rules, all on the phone | Flutter, Kotlin, PaddleOCR, OpenCV |
+| **[Venture Vault 3.0 Website](https://github.com/rishi-3009/venture-vault-3.0-registration-website)** | Mobile-first website for Venture Vault 3.0, E-Cell RBU's event, with a game-themed animated hero and multi-step team sign-up saved straight to Google Sheets | Next.js, React, Tailwind CSS, Google Apps Script, Vercel |
+| **[CardioLens](https://github.com/rishi-3009/cardiolens)** | Predicts coronary artery disease risk for each major artery and explains every prediction, powering a 3D heart dashboard. Built for the IIT Mandi Multimodal AI Hackathon | Python, scikit-learn, SHAP, FastAPI |
+| **[SecondLook](https://github.com/rishi-3009/SecondLook)** | GST invoice reader that fixes misread handwriting using the invoice's own maths. Our qualifier for Hacktoberfest Hack Day × Elevate IIITN | Qwen3.5, PP-OCRv5, Docling, FastAPI |
 
 ## 📊 GitHub stats
 
