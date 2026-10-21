@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About me
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=rishi-3009&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=rishi-3009&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 
 <!-- EDIT: rewrite these in your own words -->
 - 🧠 **Backend & ML developer**, 2nd-year CSE at **RBU Nagpur**
@@ -97,8 +97,14 @@ Photograph a packaged product and the phone reads the label, measures the print 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishi-3009&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
   <br />
   <img src="https://streak-stats.demolab.com?user=rishi-3009&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishi-3009&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
+</div>
+
+<!-- The snake below only appears after you add the snake.yml automation file. Until then it shows as a broken image, which is normal. -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishi-3009/rishi-3009/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/rishi-3009/rishi-3009/output/github-snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
 </div>
 
 <div align="center">
